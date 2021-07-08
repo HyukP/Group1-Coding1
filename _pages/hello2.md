@@ -33,3 +33,19 @@ Member는 Matt Bellamy(Lead Vocal, Keyboards, Guitar), Chris Wolstenholme(Bass g
 
 <!--![Muse Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/MuseBristol_050619-118_%2848035812973%29.jpg/1200px-MuseBristol_050619-118_%2848035812973%29.jpg)-->
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/MuseBristol_050619-118_%2848035812973%29.jpg/1200px-MuseBristol_050619-118_%2848035812973%29.jpg" width="50%">
+
+## Favorite Songs
+
+1. Plug in Baby
+
+2. Knights of Cydonia
+
+3. Uprising
+
+4. Resistance
+
+5. StarLight
+
+6. Time is running Out
+
+
