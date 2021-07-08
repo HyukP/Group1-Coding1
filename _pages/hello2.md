@@ -27,4 +27,5 @@ ISFJ는 조용하고 차분한 성격의 소유자라고 합니다.
 
 Muse는 영국의 rock band 입니다.
 Member는 Matt Bellamy(Lead Vocal, Keyboards, Guitar), Chris Wolstenholme(Bass guitar, backing Vocals), Dominic Howard(Drums) 로 구성되어 있습니다.
+<!--![Muse Image](https://en.wikipedia.org/wiki/File:MuseBristol_050619-118_(48035812973).jpg)-->
 <img src = "https://en.wikipedia.org/wiki/File:MuseBristol_050619-118_(48035812973).jpg" width="50%">
