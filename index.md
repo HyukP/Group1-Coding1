@@ -20,5 +20,4 @@ author_profile: true
 
 [1조의 커밋 내역 보기](https://github.com/HyukP/Group1-Coding1/commits/main)
 
-
-![picture](https://w.wallhaven.cc/full/4d/wallhaven-4d1mym.jpg)
+<img src = "https://w.wallhaven.cc/full/4d/wallhaven-4d1mym.jpg" width = "50%">
