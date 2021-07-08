@@ -21,11 +21,15 @@ ISFJ는 조용하고 차분한 성격의 소유자라고 합니다.
 
 주로 좋아하는 영화 장르는 액션, 호러 장르를 선호합니다.
 
-평소에는 음악을 많이 듣습니다. 특히 가장 좋아하는 그룹은 Muse라는 그룹입니다.
+평소에는 음악을 많이 듣습니다. 
+
+특히 가장 좋아하는 그룹은 Muse라는 그룹입니다.
 
 ## Muse
 
 Muse는 영국의 rock band 입니다.
+
 Member는 Matt Bellamy(Lead Vocal, Keyboards, Guitar), Chris Wolstenholme(Bass guitar, backing Vocals), Dominic Howard(Drums) 로 구성되어 있습니다.
-<!--![Muse Image](https://en.wikipedia.org/wiki/File:MuseBristol_050619-118_(48035812973).jpg)-->
-<img src = "https://en.wikipedia.org/wiki/File:MuseBristol_050619-118_(48035812973).jpg" width="50%">
+
+<!--![Muse Image]((https://en.wikipedia.org/wiki/File:MuseBristol_050619-118)-->
+<img src = "(https://en.wikipedia.org/wiki/File:MuseBristol_050619-118" width="50%">
