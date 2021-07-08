@@ -11,7 +11,8 @@ permalink : /hello3/
 프런트엔트를 할 지 백엔드를 할 지 갈팡질팡하고 있습니다. 
 우선 다음학기를 열심히 하고 결정해보려고 계획중입니다. 
 
-![kichang] (/Users/codeqtech/Documents/photo/kichang.JPG)
+![kichang] (../_photos/kichang.JPG)
+
 
 
 
