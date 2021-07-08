@@ -20,4 +20,4 @@ author_profile: true
 
 [1조의 커밋 내역 보기](https://github.com/HyukP/Group1-Coding1/commits/main)
 
-![Photo](./_photos/Image1.jpg)
+![Photo](https://drive.google.com/file/d/1H6kb-2RppEzTCpNgQxy_OEm4Xt8gg2YR/view?usp=sharing)
