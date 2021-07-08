@@ -2,7 +2,6 @@
 permalink : /hello3/
 ---
 
- 김기창  페이지
 ===============
 안녕하세요 저는 아주대학교 소프트웨어학과 재학중인 26살 김기창이라고 합니다.
 취미는*힙합댄스* 이고 현재 서울에서 팀활동을 하고 있습니다.
@@ -19,7 +18,6 @@ permalink : /hello3/
 [Qro's Instagram](https://www.instagram.com/fee_q.r0/)
 ----------------
 ![qro's profile](https://github.com/HyukP/Group1-Coding1/blob/main/_photos/kichang.jpg?raw=true)
-
 
 
 
