@@ -18,7 +18,7 @@ permalink : /hello3/
 
 [Qro's Instagram](https://www.instagram.com/fee_q.r0/)
 ----------------
-![Qro's photos](../_photos/kichang.jpg){:height="600" width="400"}
+![Qro's photos](../_photos/kichang.jpg){: height="600" width="400"}
 
 
 
