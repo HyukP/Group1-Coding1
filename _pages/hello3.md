@@ -18,7 +18,7 @@ permalink : /hello3/
 
 [Qro's Instagram](https://www.instagram.com/fee_q.r0/)
 ----------------
-![Qro's photos](https://github.com/HyukP/Group1-Coding1/_photos/kichang.jpg)
+<img src =https://github.com/HyukP/Group1-Coding1/_photos/kichang.jpg alt ="qro's photo">
 
 
 
