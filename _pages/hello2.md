@@ -31,5 +31,5 @@ Muse는 영국의 rock band 입니다.
 
 Member는 Matt Bellamy(Lead Vocal, Keyboards, Guitar), Chris Wolstenholme(Bass guitar, backing Vocals), Dominic Howard(Drums) 로 구성되어 있습니다.
 
-<!--![Muse Image]((https://en.wikipedia.org/wiki/File:MuseBristol_050619-118)-->
-<img src = "(https://en.wikipedia.org/wiki/File:MuseBristol_050619-118" width="50%">
+<!--![Muse Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/MuseBristol_050619-118_%2848035812973%29.jpg/1200px-MuseBristol_050619-118_%2848035812973%29.jpg)-->
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/MuseBristol_050619-118_%2848035812973%29.jpg/1200px-MuseBristol_050619-118_%2848035812973%29.jpg" width="50%">
